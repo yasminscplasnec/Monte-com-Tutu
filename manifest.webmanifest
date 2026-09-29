@@ -1,0 +1,84 @@
+{
+  "name": "consertos Tutu",
+  "short_name": "consertos Tutu",
+  "id": "com.example.gamename",
+  "description": "Um simulador de montagem de mobiliários, em que você encontra as  peças que estão faltando.",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "e873c5861977cb2cb98bea10d348a8732873a97b2d8e9812a292d8f6602e8adf-ios-icon-20.png.png",
+        "sizes": "20x20"
+      },{
+        "src": "a17288c2a20876a0235f1d96838b8d1a7d2346d2b2f56cdaceb2511f9a6b2c42-ios-icon-29.png.png",
+        "sizes": "29x29"
+      },{
+        "src": "99c07524806458b340e0c6bdaef9e8e20004e202ad20487bb82a4b9d190a73b0-android-icon-36.png.png",
+        "sizes": "36x36"
+      },{
+        "src": "ac314f3bb043aeca1c906edbe196ae3e6e6fc2301b4254a19300f2ce47801e76-ios-icon-40.png.png",
+        "sizes": "40x40"
+      },{
+        "src": "e7dc9960fc10a9097869229fb198997d107bcd031b72321406679a5071c21710-android-icon-48.png.png",
+        "sizes": "48x48"
+      },{
+        "src": "62981b99d54029c7d6ee5943c128b643dfa882274bfa9f951a4b327ffccb40a3-ios-icon-50.png.png",
+        "sizes": "50x50"
+      },{
+        "src": "193c5d8a9bb372f1ee31f0003434859ba5b908f58c2263d1b06e6d8ef6f9f587-ios-icon-57.png.png",
+        "sizes": "57x57"
+      },{
+        "src": "56d4c3db8e5543d64a948599e7048cae19cba180b601661615ef7b0e32e8b304-ios-icon-58.png.png",
+        "sizes": "58x58"
+      },{
+        "src": "d87e59b88fed3fbeb9f1d0b26bd2c719d00d1d0309bc9655ca93e438131c893f-ios-icon-60.png.png",
+        "sizes": "60x60"
+      },{
+        "src": "f3cdb75ab51b71ed89fa318b628465166f7e9ca559f4d077b3718c75f247ffb4-android-icon-72.png.png",
+        "sizes": "72x72"
+      },{
+        "src": "29d5d5695a3f83f8d18ecb3f2e0bc99b33e92d5f32107058e4e09a5d7a302516-ios-icon-76.png.png",
+        "sizes": "76x76"
+      },{
+        "src": "edc5edfcb69affd49322b8091e7b42b63defec12e7b43ed4525ee4a142733aa5-ios-icon-80.png.png",
+        "sizes": "80x80"
+      },{
+        "src": "001eb38985a497ab06fb6534c2e56b2181ec6ffc7c6452ffbf7cd8f9b288bfa0-ios-icon-87.png.png",
+        "sizes": "87x87"
+      },{
+        "src": "920954a08fafbc183f22155e96c1f300fee85baa8d378fd9090d704b6cdb2d87-android-icon-96.png.png",
+        "sizes": "96x96"
+      },{
+        "src": "b01e7208566b9c7b733dfc79eebfeb5d55479396f7c5faa7b142de313446ad2e-ios-icon-100.png.png",
+        "sizes": "100x100"
+      },{
+        "src": "fa0e632b21c65e4ddb6168befb892647fb1ba33647c635cd34d76db88c485b52-ios-icon-114.png.png",
+        "sizes": "114x114"
+      },{
+        "src": "6bf2fc63c8d8d7ecf6ee9e0f697a1b9d8ac042a755bbaf1ac4eee3d9bbc11600-ios-icon-120.png.png",
+        "sizes": "120x120"
+      },{
+        "src": "384cda5ec23ad8c479ba736178251bb8c73c4793728a9bbd08945163605a7975-android-icon-144.png.png",
+        "sizes": "144x144"
+      },{
+        "src": "2844edd684f4cf6578685fbfa8676000a12b31dc69ad43c25da2761b9e0db2b4-ios-icon-152.png.png",
+        "sizes": "152x152"
+      },{
+        "src": "8ce2c17973f64713160bcd31dd54c0740d5240b924e96f1466394769ac5bbe6f-ios-icon-167.png.png",
+        "sizes": "167x167"
+      },{
+        "src": "9c2651efb78c07be19d8a9fbef17407875ba0f552b24cb8225bf6d0ecc1cb603-ios-icon-180.png.png",
+        "sizes": "180x180"
+      },{
+        "src": "22df7af5aca507aace69bad7842d735eea4ecd6ea11ec75b8edabeb71b07ce10-android-icon-192.png.png",
+        "sizes": "192x192"
+      },{
+        "src": "355cd9026311fe050b908bd7768813b9839a04a1468eaf776c8bda9e3db3fcd1-desktop-icon-512.png.png",
+        "sizes": "512x512"
+      },{
+        "src": "527adac5edd571db52e5fa7f9075745e58e058930c9258bd2ae90dd211a40bc2-ios-icon-1024.png.png",
+        "sizes": "1024x1024"
+      }]
+}
